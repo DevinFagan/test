@@ -1,8 +1,10 @@
 # test
 
 #Question 1
+
 (base) devins-mbp:~ devinfagan$ cd Desktop/
-  (base) devins-mbp:Desktop devinfagan$ mkdir test
+ 
+(base) devins-mbp:Desktop devinfagan$ mkdir test
 (base) devins-mbp:Desktop devinfagan$ tree test
 test
 
